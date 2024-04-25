@@ -15,7 +15,7 @@ This code uses the following dependencies:
 ## Usage
 1. clone this repository
 ```
-git clone 
+git clone https://github.com/BrianLesko/reverse-proxy-nginx-docker
 ```
 2. make sure your app is running at your IP:PORT
 3. edit the nginx.conf file and change the port and pick an appname
