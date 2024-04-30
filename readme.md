@@ -1,7 +1,7 @@
 
 # Nginx Docker reverse proxy
 
-Access your web application via server/name rather than server:PORT by running this code. 
+Access your web application via http://server/name rather than http://server:PORT by running this code. The code here can be upgraded to allow https by getting a certificate.
 
 &nbsp;
 
