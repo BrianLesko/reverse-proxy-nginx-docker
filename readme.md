@@ -3,6 +3,10 @@
 
 Access your web application via server/name rather than server:PORT by running this code. 
 
+Nginx is also great for serving http file servers.
+
+Nginx is however more complex to setup than more modern options like Caddy server, which I have started using isntread of NGINX. 
+
 &nbsp;
 
 ## Software Dependencies
