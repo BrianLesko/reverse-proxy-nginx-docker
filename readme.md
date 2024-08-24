@@ -3,6 +3,7 @@
 
 ---
 I no longer reccomend using nginx. Caddy Server is the only reverse proxy and web tool I would reccomend for self hosting local or public web applications.
+
 ---
 
 Access your web application via http://server/name rather than http://server:PORT by running this code. The code here can be upgraded to allow https by getting a certificate.
